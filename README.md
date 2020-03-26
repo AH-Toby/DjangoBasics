@@ -1,5 +1,5 @@
 # Django基础知识
-学习资料来源网络和平时收集如有侵犯请与留言联系\
+学习资料来源网络和平时收集如有侵犯请与留言联系
 ## [Python框架要点](doc/PythonWeb框架要点/PythonWeb框架要点.md)
 ### [1.Django介绍](doc/PythonWeb框架要点/1.Django介绍.md)
 
