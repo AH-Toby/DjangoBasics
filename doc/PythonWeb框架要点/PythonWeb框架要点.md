@@ -1,6 +1,7 @@
+
 # Python Web 框架要点
 ## 1.Web应用程序处理流程
-![图片](https://github.com/AH-Toby/picture/blob/master/DjangoPicture/1%E3%80%81IntroductionToDjango/pythonWebProcess.png)
+![pythonWebProcess](https://github.com/AH-Toby/picture/blob/master/DjangoPicture/1%E3%80%81IntroductionToDjango/pythonWebProcess.png)
 ## 2.Web程序
 - 用于搭建Web应用程序
 - 免去不同Web应用相同代码部分的重复编写，只需关心Web应用核心的业务逻辑实现
