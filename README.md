@@ -1,4 +1,10 @@
 # Django基础知识
-![图片](https://github.com/AH-Toby/picture/blob/master/DjangoPicture/1%E3%80%81IntroductionToDjango/pythonWebProcess.png)
-
-![图片2](https://github.com/AH-Toby/picture/issues/1#issue-588251693)
+学习资料来源网络和平时收集如有侵犯请与留言联系\
+[1.Python框架要点](doc/PythonWeb框架要点/PythonWeb框架要点.md)\
+[2.工程搭建]()\
+[3.配置、静态文件与路由]()\
+[4.请求与响应]()\
+[5.类视图与中间件]()\
+[6.模板]()\
+[7.数据库]()\
+[8.Admin站点]()
